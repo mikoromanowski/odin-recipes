@@ -1,0 +1,1 @@
+This project is about making a website with recipes, that you can try in your kitchen.
